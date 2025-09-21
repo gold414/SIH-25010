@@ -41,28 +41,29 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>AI powered IOT system</h3>
+<ul><li>An AI powered IOT system it is an mobile application. It can detect climate every minute , detect soil condition every hour, it can detect insects and detect plant viruses.</li>
+<li>It can reduce wastage by dedecting every minute. It is an multi-lingual mobile application so everyone use it easily. Onemore thing is it is comes with multi-lingual voice assistant. So the person no needed for reading ability. Because many of the farmers in INDIA don't have reading ability. It can tell where to sell and what the price they given.</li>
+<li>The uniqueness of this idea is first the iot device is divided the land 1m each so if the problem happen we don't needed for search where it is happen the device show it. It can detect deadly creatures like snake,card bug,etc. So the person know where to go where don't know. Moreover it gives the location where to buy things to solve the problem,so the person no needed for search for things. </li></ul>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
+<h3>Tools to use</h3>
+<ul><li>python for train AI models, java for android app, firebase for realtime database, IOT devices.
 </li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<li>collect data about soil, wheather and detect viruses,creatures and connect APIs for weather data and more.<b> Coduct trials in punjab local villages. </b></li></ul>
+![alt text](flowchart-1.png)
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>Feasibility and Viability</h3>
+<ul><li>It can be success if the app's marketing and advertisement is good.</li>
+<li>Many of the indian farmers still use keypad mobile so they don't have access on application and some of the farmers even have keypad mobile they don't have knowledge to how to use it.</li>
+<li>Spread awarness of this app. If the farmer only have keypad mobile send the sms about land,wheather,etc. Make a AI based caller system for it, if they dial the numbers it will ask what you want to know in thier language and the user enter the number of what he want to know then it tell about it.</li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<h3>New Revolution</h3>
+<ul><li>It can reduce lot of wastages so we can make money by import it, when government take actions officially.</li>
+<li>It save more time,energy and make poverty level zero.</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>Research</h3>
+<ul><li>From the website called deviceauthority.com   http://deviceauthority.com/artificial-intelligence-in-iot-enhancing-connectivity-and-efficiency/</li></ul>
