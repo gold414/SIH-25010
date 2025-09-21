@@ -51,7 +51,8 @@ Agriculture, FoodTech & Rural Development
 <ul><li>python for train AI models, java for android app, firebase for realtime database, IOT devices.
 </li>
 <li>collect data about soil, wheather and detect viruses,creatures and connect APIs for weather data and more.<b> Coduct trials in punjab local villages. </b></li></ul>
-![alt text](flowchart-1.png)
+<img width="1152" height="648" alt="flowchart" src="https://github.com/user-attachments/assets/de512d19-29d8-40dd-b57d-7817040b01de" />
+
 
 ## Feasibility and Viability
 <h3>Feasibility and Viability</h3>
